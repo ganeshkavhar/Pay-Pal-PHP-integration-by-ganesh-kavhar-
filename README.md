@@ -31,3 +31,4 @@ The constants.php file contains code as shown below −
 ?>
 The user will declare User Name, password and signature in above syntax which are placed in constants.php. This is an experimental example so the last amount will be added to sandbox's account.
 
+![Paypal-Logo-Vector-Free](https://user-images.githubusercontent.com/20369800/56292964-cf4bcd80-6145-11e9-965a-614f503cb698.jpg)
